@@ -1,6 +1,6 @@
 # 2024-Fall-ICS-TA
 ## Introduction
-Resources prepared for weekly small-group seminars, including fully handmade slides, well-prepared assignments with answers, and supplementary materials."
+Resources prepared for weekly small-group seminars, including fully handmade slides, well-prepared assignments with answers, and supplementary materials.
 
 Serving as a teaching assistant for Introduction to Computer Systems (ICS) at PKU in 2024 has been an unforgettable and meaningful experience. It's a true privilege to work alongside Professor Junlin Lu and twelve kind-hearted and dedicated students enrolled in Section 2 who consistently give their best.
 ## Lecture Slides
