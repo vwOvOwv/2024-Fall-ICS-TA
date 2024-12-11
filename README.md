@@ -2,7 +2,6 @@
 ## Introduction
 Resources prepared for weekly small-group seminars, including fully handmade slides, well-prepared assignments with answers, and supplementary materials.
 
-Serving as a teaching assistant for Introduction to Computer Systems (ICS) at PKU in 2024 has been an unforgettable and meaningful experience. It's a true privilege to work alongside Professor Junlin Lu and twelve kind-hearted and dedicated students who are enrolled in Section 2 and always give their best.
 ## Lecture Slides
 | Week   | Topic                                  |
 |--------|----------------------------------------|
@@ -19,3 +18,6 @@ Serving as a teaching assistant for Introduction to Computer Systems (ICS) at PK
 | Week 12| Dynamic Linking, Sys-IO & VM I         |
 | Week 13| VM II and Final Review I              |
 | Week 14| Computer Network and Final Review II  |
+
+## Acknowledgement
+Serving as a teaching assistant for Introduction to Computer Systems (ICS) at PKU in 2024 has been an unforgettable and meaningful experience. It's a wonderful journey with Professor Junlin Lu and twelve kind-hearted and dedicated students who are enrolled in Section 2 and always give their best.
